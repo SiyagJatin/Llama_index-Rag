@@ -42,7 +42,7 @@ A **Retrieval-Augmented Generation (RAG) agent** built with LlamaIndex that enab
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rag-agent-research-papers.git
+git clone https://github.com/SiyagJatin/Llama_index-Rag.git
 cd rag-agent-research-papers
 ```
 
